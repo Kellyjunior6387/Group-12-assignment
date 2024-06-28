@@ -5,4 +5,4 @@
 gcc evaluate_resistance.c -o evaluate
 ./evaluate
 ```
-# The main file is the evaluate_resistance.c the others are header and helper functions
+**The main file is the evaluate_resistance.c the others are header and helper functions**
